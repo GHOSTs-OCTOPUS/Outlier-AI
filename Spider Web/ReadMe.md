@@ -1,0 +1,1 @@
+In this project, you’ll help train an AI model by crafting complex, creative prompts using datasets (CSV, XLSX, etc.) and designing clear rubrics that define what an ideal response should look like. Your input will directly shape how the model learns to reason and deliver high-quality answers.
